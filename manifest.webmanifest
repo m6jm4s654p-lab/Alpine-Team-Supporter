@@ -27,6 +27,9 @@
         "application/json": [
           ".atsdata",
           ".json"
+        ],
+        "text/plain": [
+          ".txt"
         ]
       }
     }

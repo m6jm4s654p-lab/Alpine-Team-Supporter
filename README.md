@@ -1,3 +1,11 @@
+# Alpine Team Supporter v1.1.1
+
+- Manager v0.13.59 の .txt データ更新ファイルに正式対応。
+- annualCalendar / calendar / nationalRankUpdatedAt を保持。
+- 年間スケジュールは更新ファイル内の seasonStartYear / days を優先表示。
+- 全国ランク SL / GS / SG は v1.1.0 の表示仕様を維持。
+- 従来の .atsdata / .json も取り込み可能。
+
 # Alpine Team Supporter v1.1.0
 
 閲覧専用PWAです。
