@@ -1,3 +1,8 @@
+# Alpine Team Supporter v1.1.8
+
+- ヘッダーのチーム名を12pxから24pxへ変更。
+- チーム名以外の文字サイズ・配置・配色は変更なし。
+
 # Alpine Team Supporter v1.1.7
 
 - アプリの外枠を端末の表示領域内に固定。
