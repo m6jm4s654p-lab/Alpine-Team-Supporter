@@ -19,19 +19,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "file_handlers": [
-    {
-      "action": "./",
-      "accept": {
-        "application/json": [
-          ".atsdata",
-          ".json"
-        ],
-        "text/plain": [
-          ".txt"
-        ]
-      }
-    }
   ]
 }
